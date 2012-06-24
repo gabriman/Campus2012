@@ -1,4 +1,6 @@
-Campus2012
-==========
+Campus de Software Libre 2012
+=============================
 
-Campus2012
+
+
+Material para el módulo de python + pygame
